@@ -115,7 +115,7 @@ nav ul li:hover>ul {
 
 
 
-#hero {
+.hero {
     background-image:linear-gradient(rgba(0, 0, 0, 0.459), rgba(0, 0, 0, 0.356), rgba(0, 0, 0, 0.452)), url(web.img/istockphoto-2054515915-612x612.jpg);
    background-position: center;
    background-repeat: no-repeat;
@@ -180,7 +180,7 @@ nav ul li:hover>ul {
 }
 
 
-#services {
+.services {
     padding: 4rem 2rem;
 }
 
@@ -223,7 +223,7 @@ nav ul li:hover>ul {
     color: #555;
 }
 
-#portfolio-preview {
+.portfolio-preview {
     width: 90%;
     background: linear-gradient(to top, black, rgb(211, 78, 1));
     padding: 3rem 2rem;
@@ -361,7 +361,7 @@ nav ul li:hover>ul {
 
 
 
-#testimonials {
+.testimonials {
     width: 90%;
     background: linear-gradient(to top, black, rgb(255, 60, 0));
     padding: 4rem 2rem;
