@@ -141,26 +141,26 @@ nav ul li:hover>ul {
 }
 
 
-#portfolio{
+.portfolio{
     margin-top: 30px;
 }
-#portfolio-preview {
+.portfolio-preview {
     width: 90%;
     background: linear-gradient(to top, black, rgb(211, 78, 1));
     padding: 3rem 2rem;
     margin-left: 50px;
     margin-top: 35px;
 }
-#portfolio h2{
+.portfolio h2{
   text-align: center;
   font-size: 2.5em;
 }
-#portfolio-filter{
+.portfolio-filter{
     margin-top: 18px;
     margin-left: 300px;
     
 }
-#portfolio-filter button{
+.portfolio-filter button{
     background-color: rgb(0, 0, 66);
     color: white;
     font-size: 1.1em;
